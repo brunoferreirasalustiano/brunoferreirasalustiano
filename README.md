@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bfs-bruno/">LinkedIn</a> •
   <a href="https://brunoferreirasalustiano.github.io/6-Portifolio-Bruno/">Portfólio</a> •
+  <a href="https://play.google.com/store/apps/developer?id=Bruno+Ferreira+Salustiano&hl=pt_BR">Google Play</a> •
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunoferreirasalustiano@gmail.com">Enviar e-mail</a>
 </p>
 
@@ -16,7 +17,15 @@
 
 Sou desenvolvedor em formação contínua, com foco em criar soluções práticas, publicáveis e úteis para usuários reais. Tenho experiência anterior em rotinas administrativas, atendimento, suporte, processos comerciais e análise técnica, o que fortalece minha visão de produto, organização e resolução de problemas.
 
-Atualmente concentro meus estudos e projetos em desenvolvimento **Front-end**, **Mobile** e **Back-end**, construindo aplicações com interface responsiva, persistência de dados, APIs REST, autenticação, geração de PDF, integrações e deploy.
+Atualmente concentro meus estudos e projetos em desenvolvimento **Front-end**, **Mobile** e **Back-end**, construindo aplicações com interface responsiva, persistência de dados, APIs REST, autenticação, geração de PDF, integrações, deploy e publicação de apps Android na Google Play.
+
+---
+
+## 📱 Apps publicados na Google Play
+
+Tenho aplicativos Android publicados na Google Play, desenvolvidos com foco em utilidade, experiência do usuário e entrega real em produção.
+
+**Perfil de desenvolvedor:** https://play.google.com/store/apps/developer?id=Bruno+Ferreira+Salustiano&hl=pt_BR
 
 ---
 
@@ -98,7 +107,7 @@ Tenho interesse em atuar com:
 - APIs REST com Node.js e Express
 - Integração com bancos PostgreSQL/Supabase
 - Automação de processos e integrações com APIs
-- Deploy, versionamento e melhoria contínua de projetos
+- Deploy, versionamento, publicação e melhoria contínua de projetos
 
 ---
 
@@ -118,11 +127,12 @@ Tenho interesse em atuar com:
 
 - **LinkedIn:** https://www.linkedin.com/in/bfs-bruno/
 - **Portfólio:** https://brunoferreirasalustiano.github.io/6-Portifolio-Bruno/
+- **Google Play:** https://play.google.com/store/apps/developer?id=Bruno+Ferreira+Salustiano&hl=pt_BR
 - **E-mail:** brunoferreirasalustiano@gmail.com
 - **Localização:** Campinas, SP - Brasil
 
 ---
 
 <p align="center">
-  Construindo projetos reais, aprendendo continuamente e evoluindo como desenvolvedor.
+  Construindo projetos reais, publicando apps e evoluindo continuamente como desenvolvedor.
 </p>
