@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bfs-bruno/">LinkedIn</a> •
   <a href="https://brunoferreirasalustiano.github.io/6-Portifolio-Bruno/">Portfólio</a> •
-  <a href="mailto:brunoferreirasalustiano@gmail.com">E-mail</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brunoferreirasalustiano@gmail.com">Enviar e-mail</a>
 </p>
 
 ---
@@ -102,15 +102,15 @@ Tenho interesse em atuar com:
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Repositórios recomendados
 
-<div align="center">
-
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoferreirasalustiano&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoferreirasalustiano&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Projeto | Foco técnico | Link |
+|---|---|---|
+| Meu Carrinho de Compras | React Native, TypeScript, Expo, AsyncStorage | https://github.com/brunoferreirasalustiano/meu-Carrinho-de-Compras |
+| Orçamento Rápido | React Native, Expo, PDF, WhatsApp, modelo premium | https://github.com/brunoferreirasalustiano/APP-ORCAMENTO-RAPIDO |
+| Monitor Universal de APIs | Node.js, Express, PostgreSQL, Supabase, dashboard | https://github.com/brunoferreirasalustiano/Meu-monitor-api |
+| Consulta CNPJ | HTML, CSS, JavaScript, API pública, cache local | https://github.com/brunoferreirasalustiano/consulta-cnpj |
+| Portfólio Full Stack | Front-end, API, banco, segurança e deploy | https://github.com/brunoferreirasalustiano/6-Portifolio-Bruno |
 
 ---
 
