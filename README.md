@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Bruno Salustiano 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack Júnior em transição de carreira, focado em aplicações web e mobile com JavaScript, TypeScript, React, React Native, Node.js e PostgreSQL.
+  Desenvolvedor Full Stack Júnior com foco em aplicações web e mobile, experiência prática em React, React Native, TypeScript, Node.js e PostgreSQL, e projetos publicados em produção na Google Play.
 </p>
 
 <p align="center">
